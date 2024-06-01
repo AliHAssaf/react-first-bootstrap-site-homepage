@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-first-bootstrap-site-homepage.git/static/css/main.fe73bef4.css",
+    "main.js": "/react-first-bootstrap-site-homepage.git/static/js/main.81567580.js",
+    "static/media/bootstrap-icons.woff?": "/react-first-bootstrap-site-homepage.git/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/react-first-bootstrap-site-homepage.git/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/card-4.jpg": "/react-first-bootstrap-site-homepage.git/static/media/card-4.4303f1702f4db4f04d44.jpg",
+    "static/media/card-2.jpg": "/react-first-bootstrap-site-homepage.git/static/media/card-2.a23b67a0330aabf5ea1b.jpg",
+    "static/media/card-1.jpg": "/react-first-bootstrap-site-homepage.git/static/media/card-1.5083d91b1b7b5af327d0.jpg",
+    "static/media/card-3.jpg": "/react-first-bootstrap-site-homepage.git/static/media/card-3.dc12607239148b2efdff.jpg",
+    "static/media/we.svg": "/react-first-bootstrap-site-homepage.git/static/media/we.c59df9a8df0ddb8d5455937a76877939.svg",
+    "static/media/learn.svg": "/react-first-bootstrap-site-homepage.git/static/media/learn.c555ed76fc0a86ab9baee4ff11bb26ea.svg",
+    "static/media/next.svg": "/react-first-bootstrap-site-homepage.git/static/media/next.8a4af1e859c44350d3b4f61d4cb93c3f.svg",
+    "static/media/hero-img.svg": "/react-first-bootstrap-site-homepage.git/static/media/hero-img.515799000eccc5a012191aadd9592072.svg",
+    "index.html": "/react-first-bootstrap-site-homepage.git/index.html",
+    "main.fe73bef4.css.map": "/react-first-bootstrap-site-homepage.git/static/css/main.fe73bef4.css.map",
+    "main.81567580.js.map": "/react-first-bootstrap-site-homepage.git/static/js/main.81567580.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe73bef4.css",
+    "static/js/main.81567580.js"
+  ]
+}
